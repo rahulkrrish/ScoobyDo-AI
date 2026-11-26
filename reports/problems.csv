@@ -1,0 +1,18 @@
+id,original_entry,name,phone,email,year,branch,status,reasons
+R09,"Name: Suresh P, email suresh.p@example.com, 2nd year IT",Suresh P,,suresh.p@example.com,2,IT,needs_fix,Missing or invalid phone
+R10,"Name: Kavya R, phone 12345, email kavya.r@example.com, 1st year ECE",Kavya R,,kavya.r@example.com,1,ECE,needs_fix,Missing or invalid phone
+R11,"Name: Manoj K, phone 9876543211, email kavya.r at gmail dot com, 2nd year CSE",Manoj K,9876543211,,2,CSE,needs_fix,Missing or invalid email
+R12,"Name: Aishwarya S, phone 9876543212, email aishwarya.s@example.com, 5th year ECE",Aishwarya S,9876543212,aishwarya.s@example.com,,ECE,needs_fix,Missing or invalid year
+R13,"Name: Sanjay T, phone 9876543213, email sanjay.t@example.com, 2nd year BBA",Sanjay T,9876543213,sanjay.t@example.com,2,other,needs_fix,Missing or invalid branch
+R14,"Name: Nila P, phone 9876543214, email nila.p@example.com, branch IT",Nila P,9876543214,nila.p@example.com,,IT,needs_fix,Missing or invalid year
+R15,"Name: Rohan M, phone 9876543215, email rohan.mexample.com, 3rd year AIDS",Rohan M,9876543215,,3,AIDS,needs_fix,Missing or invalid email
+R16,"Name: Keerthi V, phone 9876543216, email keerthi.v@example.com, 2nd year",Keerthi V,9876543216,keerthi.v@example.com,2,,needs_fix,Missing or invalid branch
+R17,"Name: Priya K, ph 98400 12345, email PRIYA.K@gmail.com, 2nd yr CSE",,,,,,duplicate,Duplicate of R01 (identical original entry)
+R18,Arun Kumar | 9876543210 | arun.kumar@yahoo.com | III year ECE,,,,,,duplicate,Duplicate of R02 (identical original entry)
+R19,Karthik V - mobile +91 91234 56789 - karthik.v@gmail.com - 1st year IT,,,,,,duplicate,Duplicate of R03 (identical original entry)
+R20,"Name: Meena S, phone 9988776655, email meena.s@example.com, year II, branch AIDS",,,,,,duplicate,Duplicate of R04 (identical original entry)
+R21,"Name: Naveen Raj, phone 8765432109, email naveen.raj@example.com, 3rd year MECH",,,,,,duplicate,Duplicate of R05 (identical original entry)
+R22,"Name: Divya R, phone 7654321098, email divya.r@example.com, 1st year CIVIL",,,,,,duplicate,Duplicate of R06 (identical original entry)
+R23,"Name: Hari Prasath, phone 9123456780, email hari.p@example.com, 4th year EEE",,,,,,duplicate,Duplicate of R07 (identical original entry)
+R24,"Name: Ananya M, phone 6789012345, email ananya.m@example.com, final year CSE",,,,,,duplicate,Duplicate of R08 (identical original entry)
+R25,"Name: Keerthi V, phone 9876543216, email keerthi.v@example.com, 2nd year CSE",Keerthi V,9876543216,keerthi.v@example.com,2,CSE,duplicate,Duplicate of R16
